@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflicting change from master
+=======
+Initial content from master
+>>>>>>> feature-update
